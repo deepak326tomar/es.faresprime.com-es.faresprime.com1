@@ -1,0 +1,88 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <div class="ftr_bx">
+          <h4> Enlace rápido </h4>
+          <ul class="left_sd">
+            <li><a href="contact.php"> Contacta con nosotras </a></li>
+            <li><a href="privacy.php"> Política de privacidad </a></li>
+            <li><a href="terms.php"> Términos y condiciones </a></li>
+          </ul>
+        </div>
+      </div>
+      <!--<div class="col-md-3">
+        <div class="ftr_bx">
+          <h4> Destino superior </h4>
+          <ul class="left_sd">
+            <li><a href="flight-to-paris.php"> Vuelo a Paris</a></li>
+            <li><a href="flight-to-houston.php"> Vuelo a Houston</a></li>
+            <li><a href="flight-to-losangeles.php"> Vuelo a Los Angeles</a></li>
+            <li><a href="flight-to-mexicocity.php"> Vuelo a Mexico City</a></li>
+          </ul>
+        </div>
+      </div> -->
+      <div class="col-md-6">
+        <div class="ftr_bx">
+          <h4> Aerolíneas principales </h4>
+          <ul class="left_sd">
+            <li class="col-md-6"><a href="air-france-airlines.php">  Air-France aerolíneas  </a></li>
+            <li class="col-md-6"><a href="british-airways.php">  British Airways </a></li>
+            <li class="col-md-6"><a href="air-canada-airlines.php">  Air Canada </a></li>
+            <li class="col-md-6"><a href="united-airlines.php">  United aerolíneas </a></li>
+            <li class="col-md-6"><a href="qatar-airways.php">  Qatar Airways </a></li>
+            <li class="col-md-6"><a href="spirit-airlines.php"> Spirit aerolíneas </a></li>
+             </ul>
+          
+          
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="ftr_bx">
+          <h4> Datos de contacto </h4>
+          <ul class="left_sd">
+            <li style="color: #ccc;"><i class="fa fa-home"></i> <strong> 30 N Gould St Ste R,</strong> <br> Sheridan, WY 82801, USA </li>
+            <li><a href="tel:+1-888-985-5056"><i class="fa fa-phone"></i> +1-888-985-5056 </a></li>
+            <li><a href="mailto:support@faresprime.com "> <i class="fa fa-envelope"></i>support@faresprime.com </a></li>
+          </ul>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<section class="dis_sec">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <p><b> Descargo de responsabilidad :</b> El sitio faresprime.com funciona como una relación entre el transportista partidario de las asociaciones de mejora y los clientes. Todos los costos de los planes son impotentes contra los cambios y no aceptamos ninguna afirmación de gastos. Puede haber ciertas modificaciones en la técnica de las objeciones en cualquier punto. No esperamos ningún peligro por la actuación de logotipos distantes en nuestro sitio. No nos hacemos responsables de incidentes, daños causados ​​a sus cosas y activos. faresprime.com no está relacionado con ningún avión o alguna otra marca inequívoca. Debe vigilar que los datos que proporciona en nuestro sitio estén hechos y correctos. Se guarda la elección para llegar a este sitio. </p>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container">
+      <div class="col-md-12">
+                    <div class="payment_icons">
+                        <ul>
+                            <li> <img src="images/icons-p3.png"> </li> 
+                       
+                            <li> <img src="images/icons-p7.png"> </li>
+                            <li> <img src="images/icons-p8.png"> </li>
+                            <li> <img src="images/icons-p9.png"> </li>
+                            <li> <img src="images/icons-p10.png"> </li>
+                            <li> <img src="images/icons-p11.png"> </li>
+                 
+                        </ul>
+                    </div>
+                </div>
+     </div>
+<div class="footer_btm">
+ © 2021, Faresprime es parte de Faresprime LLC. Reservados todos los derechos.
+</div>
+
+<div class="Boot_toll">
+ <a href="tel:+1-888-985-5056"> <i class="fa fa-phone"></i> </a>
+ <p> Llamar &amperio; Obtenga ofertas de vuelos no publicadas </p>
+  <a href="tel:+1-888-985-5056"> +1-888-985-5056 </a>
+</div>
+

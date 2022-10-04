@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+https://faresprime.com/sitemap.xml

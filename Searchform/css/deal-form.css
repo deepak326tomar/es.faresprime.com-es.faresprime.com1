@@ -1,0 +1,89 @@
+body{ padding:0px; margin:0px;}
+
+
+#ttps_SSS{ position:relative;}
+
+.dd_frmsMM {
+    background: #1e4473;
+    position: absolute;
+    width: 265px;
+    top: 60px;
+    z-index: 1;
+    left: 0%;
+    padding: 0 6px 10px 6px;
+}
+
+.dd_frmsMM:before {
+    content: '';
+    position: absolute;
+    top: -14px;
+    left: 4px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 14px solid #1e4473;
+}
+
+.dd_frmsMM img{ height:auto;}
+
+.DDRRS {
+    font-size: 15px;
+    color: #fff;
+    font-weight: 500;
+    text-align: center;
+    padding: 25px 0 5px 0;
+}
+
+#deal__close {
+    color: #fff;
+    background: #ffcc00;
+    width: 20px;
+    height: 20px;
+    top: 10px;
+    right: 9px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 12px;
+    position: absolute;
+	border-radius: 50%;
+    cursor: pointer;
+}
+
+#deal__close i{ line-height:18px; font-size:14px;}
+.flight_type label {
+    color: #fff;
+    background: transparent;
+    width: 120px;
+    height: 30px;
+    border-radius: 4px;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    margin: 0 0 10px 0;
+    font-size: 13px;
+    padding: 8px 8px 0 28px;
+    text-transform: uppercase;
+    text-align: left;
+    float: left;
+}
+
+
+.deal_inpts {
+    background: #fff;
+    color: #5d5d5d;
+    border: solid 1px #ccc;
+    font-size: 14px;
+    padding: 10px 10px 8px 28px;
+    font-weight: 600;
+    text-transform: capitalize;
+    height: 40px;
+    border-radius: 0;
+}
+
+.frm_Dealsll {
+    position: absolute;
+    top: 9px;
+    left: 5px;
+    margin: 0;
+    z-index: 1;
+}
+
+.frm_Dealsll img{ width:19px;}
